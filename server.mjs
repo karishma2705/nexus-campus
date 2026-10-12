@@ -22,7 +22,6 @@ const PROD = process.env.NODE_ENV === 'production';
 const SESSION_SECRET = process.env.SESSION_SECRET || (!PROD ? 'local-development-only-change-before-deploy' : '');
 const OTP_PEPPER = process.env.OTP_PEPPER || (!PROD ? 'local-development-only-change-before-deploy' : '');
 if (PROD && (SESSION_SECRET.length < 32 || OTP_PEPPER.length < 32 || /replace-with|change-before-deploy/i.test(SESSION_SECRET+OTP_PEPPER))) throw new Error('Production requires strong SESSION_SECRET and OTP_PEPPER values.');
-if (PROD && (!process.env.TLS_KEY_PATH || !process.env.TLS_CERT_PATH)) throw new Error('Production requires TLS_KEY_PATH and TLS_CERT_PATH; serve OTP traffic over HTTPS.');
 
 const dbPath = path.resolve(ROOT, process.env.DB_PATH || 'data/nexus.sqlite');
 const publicDbPath = path.relative(ROOT, dbPath).split(path.sep).join('/') || path.basename(dbPath);
@@ -484,5 +483,6 @@ async function handle(req,res) {
     console.error('[server] request failed:',error.message);return json(res,500,{message:'The request could not be completed. Try again.'});
   }
 }
-const server=PROD?https.createServer({key:fs.readFileSync(process.env.TLS_KEY_PATH),cert:fs.readFileSync(process.env.TLS_CERT_PATH)},handle):http.createServer(handle);
-server.listen(PORT,'0.0.0.0',()=>console.log(`NexusCampus running on ${PROD?'https':'http'} port ${PORT}`));
+const server = http.createServer(handle);
+
+server.listen(PORT, '0.0.0.0', () => console.log(`NexusCampus running on port ${PORT}`));
