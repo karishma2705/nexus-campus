@@ -1,0 +1,3989 @@
+{
+  "source": "UPTAC Preference Order.pdf",
+  "pages": 22,
+  "preferenceRows": [
+    {
+      "preference": 1,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 2,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 3,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Self Finance) (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 4,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 5,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 6,
+      "college": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 7,
+      "college": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 8,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 9,
+      "college": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 10,
+      "college": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+      "branch": "Information Technology (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 11,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 12,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 13,
+      "college": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 14,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 15,
+      "college": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+      "branch": "Electronics Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 16,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 17,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 18,
+      "college": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR HANDICAPPEDS,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 19,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 20,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 21,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Chemical Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 22,
+      "college": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 23,
+      "college": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR HANDICAPPEDS,KANPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 24,
+      "college": "APOLLO INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 25,
+      "college": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR HANDICAPPEDS,KANPUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 26,
+      "college": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 27,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 28,
+      "college": "RAJKIYA ENGINEERING COLLEGE,SONEBHADRA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 1
+    },
+    {
+      "preference": 29,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 30,
+      "college": "RAJKIYA ENGINEERING COLLEGE,BANDA",
+      "branch": "Information Technology (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 31,
+      "college": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 32,
+      "college": "KAMLA NEHRU INSTITUTE OF PHYSICAL & SOCIAL SCIENCES,SULTANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 33,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 34,
+      "college": "RAJKIYA ENGINEERING COLLEGE,KANNAUJ",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 35,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 36,
+      "college": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR HANDICAPPEDS,KANPUR",
+      "branch": "Electronics Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 37,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 38,
+      "college": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 39,
+      "college": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 40,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 41,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 42,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 43,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 44,
+      "college": "RAJKIYA ENGINEERING COLLEGE,BIJNOR",
+      "branch": "Information Technology (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 45,
+      "college": "RAJKIYA ENGINEERING COLLEGE,AMBEDKAR NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 46,
+      "college": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 47,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 48,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Artificial Intelligence And Machine Learning (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 49,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 50,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Computer Science (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 51,
+      "college": "RAJKIYA ENGINEERING COLLEGE,MAINPURI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 52,
+      "college": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 53,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science Information Technology (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 54,
+      "college": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 55,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Computer Science Information Technology (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 56,
+      "college": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+      "branch": "Chemical Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 57,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Computer Engineering (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 58,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 2
+    },
+    {
+      "preference": 59,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 60,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 61,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 62,
+      "college": "RAJKIYA ENGINEERING COLLEGE,AZAMGARH",
+      "branch": "Information Technology (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 63,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 64,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 65,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 66,
+      "college": "RAJKIYA ENGINEERING COLLEGE, BASTI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 67,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 68,
+      "college": "RAJKIYA ENGINEERING COLLEGE,BANDA",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 69,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 70,
+      "college": "NITRA TECHNICAL CAMPUS,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 71,
+      "college": "RAJKIYA ENGINEERING COLLEGE,SONEBHADRA",
+      "branch": "Electronics Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 72,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 73,
+      "college": "NITRA TECHNICAL CAMPUS,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 74,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 75,
+      "college": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
+      "branch": "Electronics Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 76,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 77,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 78,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Computer Science (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 79,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Artificial Intelligence (AI) And Data Science (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 80,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 81,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Artificial Intelligence And Machine Learning (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 82,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science (Hindi) (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 83,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Artificial Intelligence (AI) And Data Science (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 84,
+      "college": "RAJKIYA ENGINEERING COLLEGE,KANNAUJ",
+      "branch": "Electronics Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 85,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science And Design (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 86,
+      "college": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR HANDICAPPEDS,KANPUR",
+      "branch": "Chemical Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 87,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Artificial Intelligence And Machine Learning (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 88,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 3
+    },
+    {
+      "preference": 89,
+      "college": "RAJKIYA ENGINEERING COLLEGE, PARTAPGARH",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 90,
+      "college": "RAJKIYA ENGINEERING COLLEGE,AMBEDKAR NAGAR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 91,
+      "college": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 92,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 93,
+      "college": "RAJKIYA ENGINEERING COLLEGE, GONDA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 94,
+      "college": "RAJKIYA ENGINEERING COLLEGE,BIJNOR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 95,
+      "college": "RAJKIYA ENGINEERING COLLEGE, MIRZAPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 96,
+      "college": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 97,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 98,
+      "college": "RAJKIYA ENGINEERING COLLEGE,BANDA",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 99,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 100,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 101,
+      "college": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
+      "branch": "Textile Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 102,
+      "college": "PANCHWATI INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 103,
+      "college": "PRABHAT ENGINEERING COLLEGE,KANPUR DEHAT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 104,
+      "college": "RAJKIYA ENGINEERING COLLEGE,KANNAUJ",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 105,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science (Hindi) (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 106,
+      "college": "I.I.M.T. ENGG. COLLEGE,MEERUT",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 107,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 108,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science (Hindi) (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 109,
+      "college": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
+      "branch": "Chemical Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 110,
+      "college": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 111,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 112,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 113,
+      "college": "RAJKIYA ENGINEERING COLLEGE,SONEBHADRA",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 114,
+      "college": "RAJKIYA ENGINEERING COLLEGE,BIJNOR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 115,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Cyber Security) (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 116,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 117,
+      "college": "DELHI INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 118,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 4
+    },
+    {
+      "preference": 119,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 120,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 121,
+      "college": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 122,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 123,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 124,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 125,
+      "college": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 126,
+      "college": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 127,
+      "college": "MAHARAJA AGRASEN COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 128,
+      "college": "RAJKIYA ENGINEERING COLLEGE, MIRZAPUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 129,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 130,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 131,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 132,
+      "college": "RAJKIYA ENGINEERING COLLEGE,AMBEDKAR NAGAR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 133,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 134,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 135,
+      "college": "FACULTY OF ENGG, AGRA COLLEGE,AGRA",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 136,
+      "college": "FEROZ GANDHI INSTITUTE OF ENGINEERING &TECHNOLOGY,RAIBAREILLY",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 137,
+      "college": "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 138,
+      "college": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 139,
+      "college": "RAJKIYA ENGINEERING COLLEGE,MAINPURI",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 140,
+      "college": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
+      "branch": "Textile Technology (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 141,
+      "college": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 142,
+      "college": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 143,
+      "college": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 144,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 145,
+      "college": "RAJKIYA ENGINEERING COLLEGE,AZAMGARH",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 146,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 147,
+      "college": "CHAUDHARY BEERI SINGH COLLEGE OF ENGINEERING & MANAGEMENT,AGRA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 148,
+      "college": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 5
+    },
+    {
+      "preference": 149,
+      "college": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 150,
+      "college": "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT",
+      "branch": "Artificial Intelligence (AI) And Data Science (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 151,
+      "college": "LUCKNOW MODEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 152,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Business System (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 153,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication (Advanced Communication Technology)",
+      "page": 6
+    },
+    {
+      "preference": 154,
+      "college": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Information Technology (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 155,
+      "college": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 156,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Electrical & Computer Engg. (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 157,
+      "college": "RAJARSHI RANANJAY SINGH INSTITUTE OF MANAGEMENT & TECHNOLOGY,SULTANPUR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 158,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 159,
+      "college": "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 160,
+      "college": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 161,
+      "college": "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 162,
+      "college": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLGY,ALLAHABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 163,
+      "college": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 164,
+      "college": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW",
+      "branch": "Artificial Intelligence And Machine Learning (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 165,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 166,
+      "college": "RAJKIYA ENGINEERING COLLEGE,MAINPURI",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 167,
+      "college": "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 168,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 169,
+      "college": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Electronics Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 170,
+      "college": "KUNWAR SATYA VEERA COLLEGE OF ENGG. & MANAGEMENT,BIJNAUR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 171,
+      "college": "RAJKIYA ENGINEERING COLLEGE,KANNAUJ",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 172,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 173,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 174,
+      "college": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 175,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 176,
+      "college": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 177,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 178,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 6
+    },
+    {
+      "preference": 179,
+      "college": "RAJKIYA ENGINEERING COLLEGE,SONEBHADRA",
+      "branch": "Mining Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 180,
+      "college": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science Information Technology (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 181,
+      "college": "GYAN BHARTI INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 182,
+      "college": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 183,
+      "college": "ANAND-ENGG.COLLEGE,AGRA",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 184,
+      "college": "RAJKIYA ENGINEERING COLLEGE, BASTI",
+      "branch": "Electronics Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 185,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 186,
+      "college": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 187,
+      "college": "SCHOOL OF MANAGEMENT SCIENCE (SMS INSTITUTE OF TECHNOLOGY),LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 188,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 189,
+      "college": "RAJKIYA ENGINEERING COLLEGE,AZAMGARH",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 190,
+      "college": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 191,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics Engineering (VLSI Design and Technology)",
+      "page": 7
+    },
+    {
+      "preference": 192,
+      "college": "ANAND-ENGG.COLLEGE,AGRA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 193,
+      "college": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 194,
+      "college": "KAMLA NEHRU INSTITUTE OF PHYSICAL & SOCIAL SCIENCES,SULTANPUR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 195,
+      "college": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 196,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 197,
+      "college": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 198,
+      "college": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 199,
+      "college": "MODINAGAR INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 200,
+      "college": "RAJKIYA ENGINEERING COLLEGE, MIRZAPUR",
+      "branch": "Electronics Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 201,
+      "college": "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 202,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 203,
+      "college": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 204,
+      "college": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 205,
+      "college": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 206,
+      "college": "RAJKIYA ENGINEERING COLLEGE,MAINPURI",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 207,
+      "college": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 208,
+      "college": "HARDAYAL TECHNICAL CAMPUS,MATHURA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 7
+    },
+    {
+      "preference": 209,
+      "college": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 210,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science (Hindi) (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 211,
+      "college": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 212,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 213,
+      "college": "FEROZ GANDHI INSTITUTE OF ENGINEERING &TECHNOLOGY,RAIBAREILLY",
+      "branch": "Aeronautical Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 214,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 215,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 216,
+      "college": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 217,
+      "college": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 218,
+      "college": "ABSS INSTITUTE OF TECHNOLOGY, MEERUT,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 219,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 220,
+      "college": "RAJARSHI RANANJAY SINGH INSTITUTE OF MANAGEMENT & TECHNOLOGY,SULTANPUR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 221,
+      "college": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
+      "branch": "Artificial Intelligence (AI) And Data Science (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 222,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "M Tech (Integrated) Computer Science and Engineering",
+      "page": 8
+    },
+    {
+      "preference": 223,
+      "college": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 224,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 225,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 226,
+      "college": "JMS GROUP OF INSTITUTIONS,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 227,
+      "college": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 228,
+      "college": "MARATHWADA INSTT. OF TECHNOLOGY,BULANDSHAHAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 229,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 230,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 231,
+      "college": "VISION INSTITUTE OF TECHNOLOGY,ALIGARH",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 232,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 233,
+      "college": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 234,
+      "college": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 235,
+      "college": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 236,
+      "college": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 237,
+      "college": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 238,
+      "college": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 8
+    },
+    {
+      "preference": 239,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 240,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Automobile Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 241,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 242,
+      "college": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 243,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 244,
+      "college": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 245,
+      "college": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 246,
+      "college": "KCC INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 247,
+      "college": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 248,
+      "college": "RAJKIYA ENGINEERING COLLEGE, BASTI",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 249,
+      "college": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 250,
+      "college": "KCC INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 251,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 252,
+      "college": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 253,
+      "college": "LDC INSTITUTE OF TECHNICAL STUDIES,ALLAHABAD",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 254,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 255,
+      "college": "BHAGWATI INSTITUTE OF TECHNOLOGY & SCIENCE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 256,
+      "college": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 257,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 258,
+      "college": "MARATHWADA INSTT. OF TECHNOLOGY,BULANDSHAHAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 259,
+      "college": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 260,
+      "college": "INDIAN INSTITUTE OF CARPET TECHNOLOGY,BHADOHI",
+      "branch": "Carpet & Textile Technology (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 261,
+      "college": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 262,
+      "college": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 263,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Information Technology (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 264,
+      "college": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 265,
+      "college": "HI-TECH. INSTITUTE OF ENGINEERING &TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 266,
+      "college": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 267,
+      "college": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 268,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Cyber Security) (Shift I)",
+      "page": 9
+    },
+    {
+      "preference": 269,
+      "college": "I.I.M.T. ENGG. COLLEGE,MEERUT",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 270,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science Information Technology (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 271,
+      "college": "BHAGWATI INSTITUTE OF TECHNOLOGY & SCIENCE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 272,
+      "college": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 273,
+      "college": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Computer Science (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 274,
+      "college": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 275,
+      "college": "A.N.A.COLLEGE OF ENGINEERING & MANAGEMENT,BAREILLY",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 276,
+      "college": "RAJ KUMAR GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 277,
+      "college": "PANCHWATI INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 278,
+      "college": "KUNWAR SATYA VEERA COLLEGE OF ENGG. & MANAGEMENT,BIJNAUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 279,
+      "college": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 280,
+      "college": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 281,
+      "college": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY,VARANASI",
+      "branch": "Handloom & Textile Technology (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 282,
+      "college": "KCC INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 283,
+      "college": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 284,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 285,
+      "college": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 286,
+      "college": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 287,
+      "college": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 288,
+      "college": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 289,
+      "college": "ANAND-ENGG.COLLEGE,AGRA",
+      "branch": "Artificial Intelligence And Machine Learning (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 290,
+      "college": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 291,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 292,
+      "college": "NORTH INDIA INSTITUTE OF TECHNOLOGY,BIJNAUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 293,
+      "college": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 294,
+      "college": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+      "branch": "Computer Science (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 295,
+      "college": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 296,
+      "college": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 297,
+      "college": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 298,
+      "college": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 10
+    },
+    {
+      "preference": 299,
+      "college": "RAJKIYA ENGINEERING COLLEGE, PARTAPGARH",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 300,
+      "college": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 301,
+      "college": "ESHAN COLLEGE OF ENGINEERING,MATHURA",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 302,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 303,
+      "college": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
+      "branch": "Instrumentation and Control Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 304,
+      "college": "SRI RAMMURTI SMARAK COLLEGE OF ENGINEERING TECHNOLOGY & RESEARCH,BAREILLY",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 305,
+      "college": "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 306,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 307,
+      "college": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 308,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Electronic And Computer Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 309,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 310,
+      "college": "PRAYAG INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALLAHABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 311,
+      "college": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 312,
+      "college": "UNITED COLLEGE OF ENGIINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 313,
+      "college": "ALIGARH COLLEGE OF ENGG. & TECH,ALIGARH",
+      "branch": "Information Technology (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 314,
+      "college": "PRAYAG INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALLAHABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 315,
+      "college": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 316,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+      "branch": "Electronics Engineering (VLSI Design and Technology)",
+      "page": 11
+    },
+    {
+      "preference": 317,
+      "college": "FEROZ GANDHI INSTITUTE OF ENGINEERING &TECHNOLOGY,RAIBAREILLY",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 318,
+      "college": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+      "branch": "Computer Science and Engineering (Cyber Security) (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 319,
+      "college": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 320,
+      "college": "J.P..INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 321,
+      "college": "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 322,
+      "college": "RAJKIYA ENGINEERING COLLEGE, GONDA",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 323,
+      "college": "DELHI INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 324,
+      "college": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 325,
+      "college": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
+      "branch": "Information Technology (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 326,
+      "college": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 327,
+      "college": "KUNWAR SATYA VEERA COLLEGE OF ENGG. & MANAGEMENT,BIJNAUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 328,
+      "college": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 11
+    },
+    {
+      "preference": 329,
+      "college": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 330,
+      "college": "SCHOOL OF MANAGEMENT SCIENCE (SMS INSTITUTE OF TECHNOLOGY),LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 331,
+      "college": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 332,
+      "college": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 333,
+      "college": "ANAND-ENGG.COLLEGE,AGRA",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 334,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 335,
+      "college": "KALKA INSTITUTE FOR RESEARCH & ADVANCED STUDIES,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 336,
+      "college": "MANGALMAY INSTITUTE OF ENGINEERING AND TECHNOLOGY ,GAUTAM BUDDHA NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 337,
+      "college": "LUCKNOW MODEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 338,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 339,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 340,
+      "college": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 341,
+      "college": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 342,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 343,
+      "college": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 344,
+      "college": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 345,
+      "college": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 346,
+      "college": "KCC INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science Information Technology (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 347,
+      "college": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 348,
+      "college": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 349,
+      "college": "MANGALMAY INSTITUTE OF ENGINEERING AND TECHNOLOGY ,GAUTAM BUDDHA NAGAR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 350,
+      "college": "FACULTY OF ENGG, AGRA COLLEGE,AGRA",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 351,
+      "college": "RAJKIYA ENGINEERING COLLEGE, MIRZAPUR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 352,
+      "college": "KAMLA NEHRU INSTITUTE OF PHYSICAL & SOCIAL SCIENCES,SULTANPUR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 353,
+      "college": "B.N.COLLEGE OF ENGINEERING & TECHNOLOGY(BNCET),LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 354,
+      "college": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 355,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 356,
+      "college": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 357,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 358,
+      "college": "MADHU VACHASPATI INSTITUTE OF ENGINEERING & TECHNOLOGY,KAUSHAMBI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 12
+    },
+    {
+      "preference": 359,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Artificial Intelligence (AI) And Data Science (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 360,
+      "college": "SAROJ INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 361,
+      "college": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 362,
+      "college": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 363,
+      "college": "MADHU VACHASPATI INSTITUTE OF ENGINEERING & TECHNOLOGY,KAUSHAMBI",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 364,
+      "college": "KCC INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Artificial Intelligence And Machine Learning (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 365,
+      "college": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 366,
+      "college": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 367,
+      "college": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 368,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Chemical Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 369,
+      "college": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
+      "branch": "Textile Chemistry (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 370,
+      "college": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 371,
+      "college": "KOTHIWAL INSTITUTE OF TECHNOLOGY & PROFESSIONAL STUDIES,MORADABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 372,
+      "college": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
+      "branch": "Information Technology (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 373,
+      "college": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 374,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 375,
+      "college": "SCHOOL OF MANAGEMENT SCIENCE (SMS INSTITUTE OF TECHNOLOGY),LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 376,
+      "college": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 377,
+      "college": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+      "branch": "Computer Science Information Technology (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 378,
+      "college": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 379,
+      "college": "ALIGARH COLLEGE OF ENGG. & TECH,ALIGARH",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 380,
+      "college": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 381,
+      "college": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLGY,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 382,
+      "college": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 383,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 384,
+      "college": "ESHAN COLLEGE OF ENGINEERING,MATHURA",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 385,
+      "college": "INDRAPRASTHA INSTITUTE OF MANAGEMENT & TECHNOLOGY,SAHARANPUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 386,
+      "college": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 387,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 388,
+      "college": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 13
+    },
+    {
+      "preference": 389,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 390,
+      "college": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 391,
+      "college": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 392,
+      "college": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
+      "branch": "Information Technology (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 393,
+      "college": "RAJKIYA ENGINEERING COLLEGE, GONDA",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 394,
+      "college": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 395,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Artificial Intelligence (AI) And Data Science (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 396,
+      "college": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "branch": "Electronics Engineering (VLSI Design and Technology)",
+      "page": 14
+    },
+    {
+      "preference": 397,
+      "college": "J.P..INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 398,
+      "college": "GOKARAN NARVADESHWAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 399,
+      "college": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
+      "branch": "Artificial Intelligence (AI) And Data Science (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 400,
+      "college": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 401,
+      "college": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 402,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Cyber Security) (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 403,
+      "college": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 404,
+      "college": "NEELAM COLLEGE OF ENGINEERING & TECHNOLOGY,AGRA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 405,
+      "college": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 406,
+      "college": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 407,
+      "college": "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 408,
+      "college": "RAJKIYA ENGINEERING COLLEGE, PARTAPGARH",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 409,
+      "college": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 410,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 411,
+      "college": "FIT ENGINEERING COLLEGE,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 412,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Computer Science and Engineering (Cyber Security) (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 413,
+      "college": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLGY,ALLAHABAD",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 414,
+      "college": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 415,
+      "college": "H.R.INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 416,
+      "college": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 417,
+      "college": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 418,
+      "college": "GREATER NOIDA COLLEGE",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 14
+    },
+    {
+      "preference": 419,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 420,
+      "college": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 421,
+      "college": "RAJKIYA ENGINEERING COLLEGE, PARTAPGARH",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 422,
+      "college": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 423,
+      "college": "FUTURE INSTITUTE OF ENGINEERING & TECHNOLOGY,BAREILLY",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 424,
+      "college": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 425,
+      "college": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 426,
+      "college": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 427,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 428,
+      "college": "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 429,
+      "college": "GREATER NOIDA COLLEGE",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 430,
+      "college": "ALIGARH COLLEGE OF ENGG. & TECH,ALIGARH",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 431,
+      "college": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "branch": "Computer Science and Engineering (Cyber Security) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 432,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science And Design (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 433,
+      "college": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 434,
+      "college": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 435,
+      "college": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 436,
+      "college": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 437,
+      "college": "RAJ KUMAR GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 438,
+      "college": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 439,
+      "college": "ESHAN COLLEGE OF ENGINEERING,MATHURA",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 440,
+      "college": "VEER KUNWAR INSTITUTE OF TECHNOLOGY,BIJNAUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 441,
+      "college": "DR. K.N. MODI INSTITUTE OF ENGG. & TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 442,
+      "college": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 443,
+      "college": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 444,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 445,
+      "college": "J.P..INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Information Technology (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 446,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 447,
+      "college": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 448,
+      "college": "B.N.COLLEGE OF ENGINEERING & TECHNOLOGY(BNCET),LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 15
+    },
+    {
+      "preference": 449,
+      "college": "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 450,
+      "college": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 451,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 452,
+      "college": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLGY,ALLAHABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 453,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 454,
+      "college": "PRAYAG INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 455,
+      "college": "DEV BHOOMI GROUP OF INSTITUTIONS,SAHARANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 456,
+      "college": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 457,
+      "college": "B.N.COLLEGE OF ENGINEERING & TECHNOLOGY(BNCET),LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 458,
+      "college": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 459,
+      "college": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 460,
+      "college": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 461,
+      "college": "DR. RIZVI COLLEGE OF ENGINEERING,,KAUSHAMBI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 462,
+      "college": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 463,
+      "college": "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 464,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 465,
+      "college": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 466,
+      "college": "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 467,
+      "college": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 468,
+      "college": "KCC INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 469,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 470,
+      "college": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 471,
+      "college": "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 472,
+      "college": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 473,
+      "college": "B.B.S.COLLEGE OF ENGGINERING AND TECHNOLOGY,ALLAHABAD",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 474,
+      "college": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 475,
+      "college": "PRASAD INSTITUTE OF TECHNOLOGY,JAUNPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 476,
+      "college": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 477,
+      "college": "ALIGARH COLLEGE OF ENGG. & TECH,ALIGARH",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 478,
+      "college": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+      "branch": "Computer Science (Shift I)",
+      "page": 16
+    },
+    {
+      "preference": 479,
+      "college": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 480,
+      "college": "ANAND-ENGG.COLLEGE,AGRA",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 481,
+      "college": "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Information Technology (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 482,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Artificial Intelligence And Machine Learning (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 483,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 484,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 485,
+      "college": "VEER KUNWAR INSTITUTE OF TECHNOLOGY,BIJNAUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 486,
+      "college": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Cyber Security) (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 487,
+      "college": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
+      "branch": "Computer Science (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 488,
+      "college": "FACULTY OF ENGG, AGRA COLLEGE,AGRA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 489,
+      "college": "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 490,
+      "college": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 491,
+      "college": "RAJKIYA ENGINEERING COLLEGE, BASTI",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 492,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 493,
+      "college": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 494,
+      "college": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 495,
+      "college": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 496,
+      "college": "I.I.M.T. ENGG. COLLEGE,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 497,
+      "college": "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 498,
+      "college": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 499,
+      "college": "RAJARSHI RANANJAY SINGH INSTITUTE OF MANAGEMENT & TECHNOLOGY,SULTANPUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 500,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 501,
+      "college": "B.N.COLLEGE OF ENGINEERING & TECHNOLOGY(BNCET),LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 502,
+      "college": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 503,
+      "college": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Computer Science And Design (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 504,
+      "college": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 505,
+      "college": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 506,
+      "college": "VIDYA COLLEGE OF ENGINEERING,MEERUT",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 507,
+      "college": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 508,
+      "college": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 17
+    },
+    {
+      "preference": 509,
+      "college": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 510,
+      "college": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 511,
+      "college": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET), LUCKNOW",
+      "branch": "Plastic Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 512,
+      "college": "HMFA MEMORIAL INSTITUTE OF ENGINEERING & TECHNOLOGY,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 513,
+      "college": "BHABHA INSTITUTE OF TECHNOLOGY,KANPUR DEHAT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 514,
+      "college": "SCHOOL OF MANAGEMENT SCIENCE (SMS INSTITUTE OF TECHNOLOGY),LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 515,
+      "college": "DR. VIRENDRA SWARUP MEMORIAL TRUST GROUP OF INSTITUTIONS,UNNAO",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 516,
+      "college": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 517,
+      "college": "ABES ENGG.COLLEGE,GHAZIABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 518,
+      "college": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 519,
+      "college": "PRASAD INSTITUTE OF TECHNOLOGY,JAUNPUR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 520,
+      "college": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 521,
+      "college": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 522,
+      "college": "RAJKIYA ENGINEERING COLLEGE, GONDA",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 523,
+      "college": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 524,
+      "college": "UNITED COLLEGE OF ENGIINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 525,
+      "college": "ALLENHOUSE INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 526,
+      "college": "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 527,
+      "college": "ESHAN COLLEGE OF ENGINEERING,MATHURA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 528,
+      "college": "HI-TECH. INSTITUTE OF ENGINEERING &TECHNOLOGY,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 529,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 530,
+      "college": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 531,
+      "college": "PRASAD INSTITUTE OF TECHNOLOGY,JAUNPUR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 532,
+      "college": "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 533,
+      "college": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 534,
+      "college": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 535,
+      "college": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
+      "branch": "Industrial Production Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 536,
+      "college": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 537,
+      "college": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 538,
+      "college": "INDUS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 18
+    },
+    {
+      "preference": 539,
+      "college": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 540,
+      "college": "KCC INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 541,
+      "college": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 542,
+      "college": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET), LUCKNOW",
+      "branch": "Manufacturing Technology (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 543,
+      "college": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 544,
+      "college": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+      "branch": "Chemical Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 545,
+      "college": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science And Design (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 546,
+      "college": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 547,
+      "college": "MEERUT INTERNATIONAL INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 548,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 549,
+      "college": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 550,
+      "college": "UNITED COLLEGE OF ENGIINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 551,
+      "college": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 552,
+      "college": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
+      "branch": "Man Made Fibre Technology (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 553,
+      "college": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 554,
+      "college": "DR. VIRENDRA SWARUP MEMORIAL TRUST GROUP OF INSTITUTIONS,UNNAO",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 555,
+      "college": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 556,
+      "college": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 557,
+      "college": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 558,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 559,
+      "college": "LDC INSTITUTE OF TECHNICAL STUDIES,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 560,
+      "college": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 561,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 562,
+      "college": "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 563,
+      "college": "FEROZ GANDHI INSTITUTE OF ENGINEERING &TECHNOLOGY,RAIBAREILLY",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 564,
+      "college": "B.N.COLLEGE OF ENGINEERING & TECHNOLOGY(BNCET),LUCKNOW",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 565,
+      "college": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 566,
+      "college": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 567,
+      "college": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 568,
+      "college": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 19
+    },
+    {
+      "preference": 569,
+      "college": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+      "branch": "Computer Science (Hindi) (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 570,
+      "college": "R.D.ENGINEERING COLLEGE RESEARCH CENTRE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 571,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 572,
+      "college": "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 573,
+      "college": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Information Technology (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 574,
+      "college": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 575,
+      "college": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 576,
+      "college": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 577,
+      "college": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 578,
+      "college": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 579,
+      "college": "NITRA TECHNICAL CAMPUS,GHAZIABAD",
+      "branch": "Textile Technology (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 580,
+      "college": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 581,
+      "college": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 582,
+      "college": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 583,
+      "college": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 584,
+      "college": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 585,
+      "college": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 586,
+      "college": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 587,
+      "college": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 588,
+      "college": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+      "branch": "Computer Science and Engineering (Cyber Security) (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 589,
+      "college": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 590,
+      "college": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 591,
+      "college": "SCHOOL OF MANAGEMENT SCIENCE (SMS INSTITUTE OF TECHNOLOGY),LUCKNOW",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 592,
+      "college": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 593,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 594,
+      "college": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 595,
+      "college": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
+      "branch": "Computer Science And Design (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 596,
+      "college": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 597,
+      "college": "MANGALMAY INSTITUTE OF ENGINEERING AND TECHNOLOGY ,GAUTAM BUDDHA NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 598,
+      "college": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 20
+    },
+    {
+      "preference": 599,
+      "college": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 600,
+      "college": "B.N.COLLEGE OF ENGINEERING & TECHNOLOGY(BNCET),LUCKNOW",
+      "branch": "Information Technology (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 601,
+      "college": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
+      "branch": "Information Technology (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 602,
+      "college": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 603,
+      "college": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 604,
+      "college": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 605,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 606,
+      "college": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 607,
+      "college": "INDRAPRASTHA INSTITUTE OF MANAGEMENT & TECHNOLOGY,SAHARANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 608,
+      "college": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 609,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Computer Science and Engineering (Data Science) (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 610,
+      "college": "ALLENHOUSE INSTITUTE OF TECHNOLOGY,KANPUR",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 611,
+      "college": "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 612,
+      "college": "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 613,
+      "college": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 614,
+      "college": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 615,
+      "college": "B.N.COLLEGE OF ENGINEERING & TECHNOLOGY(BNCET),LUCKNOW",
+      "branch": "Computer Science and Engineering (Artificial Intelligence) (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 616,
+      "college": "RAJARSHI RANANJAY SINGH INSTITUTE OF MANAGEMENT & TECHNOLOGY,SULTANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 617,
+      "college": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 618,
+      "college": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 619,
+      "college": "B.B.S.COLLEGE OF ENGGINERING AND TECHNOLOGY,ALLAHABAD",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 620,
+      "college": "SR GROUP OF INSTITUTIONS(COLLEGE OF ENGINEERING MANAGEMENT & TECHNOLOGY),JHANSI",
+      "branch": "Computer Science and Engineering (Internet of Things) (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 621,
+      "college": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 622,
+      "college": "DR. VIRENDRA SWARUP MEMORIAL TRUST GROUP OF INSTITUTIONS,UNNAO",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 623,
+      "college": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+      "branch": "Mechanical Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 624,
+      "college": "ACE COLLEGE OF ENGINEERING & MANAGEMENT,AGRA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 625,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Electronics and Communication Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 626,
+      "college": "SCHOOL OF MANAGEMENT SCIENCE (SMS INSTITUTE OF TECHNOLOGY),LUCKNOW",
+      "branch": "Artificial Intelligence (AI) And Data Science (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 627,
+      "college": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 628,
+      "college": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 21
+    },
+    {
+      "preference": 629,
+      "college": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Electrical Engineering (Shift I)",
+      "page": 22
+    },
+    {
+      "preference": 630,
+      "college": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 22
+    },
+    {
+      "preference": 631,
+      "college": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+      "branch": "Civil Engineering (Shift I)",
+      "page": 22
+    },
+    {
+      "preference": 632,
+      "college": "VIDYA COLLEGE OF ENGINEERING,MEERUT",
+      "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning) (Shift I)",
+      "page": 22
+    },
+    {
+      "preference": 633,
+      "college": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 22
+    },
+    {
+      "preference": 634,
+      "college": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 22
+    },
+    {
+      "preference": 635,
+      "college": "RAJARSHI RANANJAY SINGH INSTITUTE OF MANAGEMENT & TECHNOLOGY,SULTANPUR",
+      "branch": "Electrical & Electronics Engineering (Shift I)",
+      "page": 22
+    },
+    {
+      "preference": 636,
+      "college": "VIDYA COLLEGE OF ENGINEERING,MEERUT",
+      "branch": "Computer Science and Engineering (Shift I)",
+      "page": 22
+    }
+  ],
+  "colleges": [
+    "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+    "J.S.S. ACADEMY OF TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
+    "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+    "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+    "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+    "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR HANDICAPPEDS,KANPUR",
+    "KIET GROUP OF INSTITUTIONS(KRISHNA INSTT. OF ENGG. & TECHNOLOGY),GHAZIABAD",
+    "APOLLO INSTITUTE OF TECHNOLOGY,KANPUR",
+    "RAJKIYA ENGINEERING COLLEGE,SONEBHADRA",
+    "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "RAJKIYA ENGINEERING COLLEGE,BANDA",
+    "KAMLA NEHRU INSTITUTE OF PHYSICAL & SOCIAL SCIENCES,SULTANPUR",
+    "RAJKIYA ENGINEERING COLLEGE,KANNAUJ",
+    "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+    "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
+    "ABES ENGG.COLLEGE,GHAZIABAD",
+    "RAJKIYA ENGINEERING COLLEGE,BIJNOR",
+    "RAJKIYA ENGINEERING COLLEGE,AMBEDKAR NAGAR",
+    "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "RAJKIYA ENGINEERING COLLEGE,MAINPURI",
+    "RAJKIYA ENGINEERING COLLEGE,AZAMGARH",
+    "RAJKIYA ENGINEERING COLLEGE, BASTI",
+    "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "NITRA TECHNICAL CAMPUS,GHAZIABAD",
+    "RAJKIYA ENGINEERING COLLEGE, PARTAPGARH",
+    "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+    "RAJKIYA ENGINEERING COLLEGE, GONDA",
+    "RAJKIYA ENGINEERING COLLEGE, MIRZAPUR",
+    "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+    "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+    "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY, KANPUR",
+    "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
+    "PANCHWATI INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+    "PRABHAT ENGINEERING COLLEGE,KANPUR DEHAT",
+    "I.I.M.T. ENGG. COLLEGE,MEERUT",
+    "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
+    "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+    "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+    "DELHI INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+    "GREATER NOIDA INSTITUTE OF TECHNOLOGY(ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+    "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+    "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+    "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+    "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
+    "MAHARAJA AGRASEN COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR",
+    "FACULTY OF ENGG, AGRA COLLEGE,AGRA",
+    "FEROZ GANDHI INSTITUTE OF ENGINEERING &TECHNOLOGY,RAIBAREILLY",
+    "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
+    "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+    "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
+    "CHAUDHARY BEERI SINGH COLLEGE OF ENGINEERING & MANAGEMENT,AGRA",
+    "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT",
+    "LUCKNOW MODEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+    "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
+    "RAJARSHI RANANJAY SINGH INSTITUTE OF MANAGEMENT & TECHNOLOGY,SULTANPUR",
+    "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+    "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLGY,ALLAHABAD",
+    "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+    "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW",
+    "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+    "KUNWAR SATYA VEERA COLLEGE OF ENGG. & MANAGEMENT,BIJNAUR",
+    "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR",
+    "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
+    "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+    "GYAN BHARTI INSTITUTE OF TECHNOLOGY,MEERUT",
+    "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
+    "ANAND-ENGG.COLLEGE,AGRA",
+    "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
+    "SCHOOL OF MANAGEMENT SCIENCE (SMS INSTITUTE OF TECHNOLOGY),LUCKNOW",
+    "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+    "R.D.ENGINEERING COLLEGE,GHAZIABAD",
+    "MODINAGAR INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+    "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
+    "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+    "HARDAYAL TECHNICAL CAMPUS,MATHURA",
+    "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
+    "ABSS INSTITUTE OF TECHNOLOGY, MEERUT,MEERUT",
+    "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
+    "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
+    "JMS GROUP OF INSTITUTIONS,GHAZIABAD",
+    "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+    "MARATHWADA INSTT. OF TECHNOLOGY,BULANDSHAHAR",
+    "VISION INSTITUTE OF TECHNOLOGY,ALIGARH",
+    "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
+    "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+    "KCC INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+    "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+    "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
+    "LDC INSTITUTE OF TECHNICAL STUDIES,ALLAHABAD",
+    "BHAGWATI INSTITUTE OF TECHNOLOGY & SCIENCE,GHAZIABAD",
+    "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
+    "INDIAN INSTITUTE OF CARPET TECHNOLOGY,BHADOHI",
+    "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
+    "HI-TECH. INSTITUTE OF ENGINEERING &TECHNOLOGY,GHAZIABAD",
+    "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
+    "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+    "A.N.A.COLLEGE OF ENGINEERING & MANAGEMENT,BAREILLY",
+    "RAJ KUMAR GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,GHAZIABAD",
+    "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY,VARANASI",
+    "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+    "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
+    "NORTH INDIA INSTITUTE OF TECHNOLOGY,BIJNAUR",
+    "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "ESHAN COLLEGE OF ENGINEERING,MATHURA",
+    "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+    "SRI RAMMURTI SMARAK COLLEGE OF ENGINEERING TECHNOLOGY & RESEARCH,BAREILLY",
+    "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
+    "PRAYAG INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALLAHABAD",
+    "UNITED COLLEGE OF ENGIINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
+    "ALIGARH COLLEGE OF ENGG. & TECH,ALIGARH",
+    "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
+    "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+    "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+    "J.P..INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+    "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
+    "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
+    "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
+    "KALKA INSTITUTE FOR RESEARCH & ADVANCED STUDIES,MEERUT",
+    "MANGALMAY INSTITUTE OF ENGINEERING AND TECHNOLOGY ,GAUTAM BUDDHA NAGAR",
+    "INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+    "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+    "B.N.COLLEGE OF ENGINEERING & TECHNOLOGY(BNCET),LUCKNOW",
+    "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
+    "MADHU VACHASPATI INSTITUTE OF ENGINEERING & TECHNOLOGY,KAUSHAMBI",
+    "SAROJ INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+    "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
+    "KOTHIWAL INSTITUTE OF TECHNOLOGY & PROFESSIONAL STUDIES,MORADABAD",
+    "INDRAPRASTHA INSTITUTE OF MANAGEMENT & TECHNOLOGY,SAHARANPUR",
+    "GOKARAN NARVADESHWAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
+    "NEELAM COLLEGE OF ENGINEERING & TECHNOLOGY,AGRA",
+    "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR",
+    "FIT ENGINEERING COLLEGE,MEERUT",
+    "H.R.INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+    "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+    "GREATER NOIDA COLLEGE",
+    "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
+    "FUTURE INSTITUTE OF ENGINEERING & TECHNOLOGY,BAREILLY",
+    "VEER KUNWAR INSTITUTE OF TECHNOLOGY,BIJNAUR",
+    "DR. K.N. MODI INSTITUTE OF ENGG. & TECHNOLOGY,GHAZIABAD",
+    "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
+    "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+    "DEV BHOOMI GROUP OF INSTITUTIONS,SAHARANPUR",
+    "DR. RIZVI COLLEGE OF ENGINEERING,,KAUSHAMBI",
+    "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+    "B.B.S.COLLEGE OF ENGGINERING AND TECHNOLOGY,ALLAHABAD",
+    "PRASAD INSTITUTE OF TECHNOLOGY,JAUNPUR",
+    "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT",
+    "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
+    "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
+    "VIDYA COLLEGE OF ENGINEERING,MEERUT",
+    "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET), LUCKNOW",
+    "HMFA MEMORIAL INSTITUTE OF ENGINEERING & TECHNOLOGY,ALLAHABAD",
+    "BHABHA INSTITUTE OF TECHNOLOGY,KANPUR DEHAT",
+    "DR. VIRENDRA SWARUP MEMORIAL TRUST GROUP OF INSTITUTIONS,UNNAO",
+    "ALLENHOUSE INSTITUTE OF TECHNOLOGY,KANPUR",
+    "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY",
+    "INDUS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+    "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+    "MEERUT INTERNATIONAL INSTITUTE OF TECHNOLOGY,MEERUT",
+    "R.D.ENGINEERING COLLEGE RESEARCH CENTRE,GHAZIABAD",
+    "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
+    "SR GROUP OF INSTITUTIONS(COLLEGE OF ENGINEERING MANAGEMENT & TECHNOLOGY),JHANSI",
+    "ACE COLLEGE OF ENGINEERING & MANAGEMENT,AGRA"
+  ]
+}

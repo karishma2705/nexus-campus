@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="NexusCampus AI - college discovery, branch matching, aptitude and admission support.">
+  <title>NexusCampus AI | Find the campus that fits</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="campus-nav.css">
+    <link rel="stylesheet" href="dashboard.css">
+    <link rel="stylesheet" href="mathura-explorer.css">
+    <link rel="stylesheet" href="premium.css">
+</head>
+<body>
+  <div class="page-noise"></div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="NexusCampus AI home">
+      <span class="brand-mark"><i></i><i></i><i></i></span>
+      <span>NEXUS<span>CAMPUS</span><em>AI</em></span>
+    </a>
+    <nav aria-label="Main navigation">
+      <a href="#discover">Discover</a>
+      <a href="#mathuraExplorer">Mathura colleges</a>
+      <a href="#collegeProfile">College profile</a>
+      <a href="#aptitude">Aptitude test</a>
+      <a href="/branch-recommendation.html">Find Your Best Branch</a>
+      <a href="/scholarships.html">Scholarships</a>
+      <a href="#support">Support</a>
+      <a href="#studentDashboard" id="dashboardNavLink" hidden>My dashboard</a>
+    </nav>
+    <button class="button button-dark button-small" id="openAuth">Create profile <span aria-hidden="true">↗</span></button>
+    <button class="button button-outline button-small" id="dashboardShortcut" hidden>Dashboard <span aria-hidden="true">↗</span></button>
+    <button class="button button-outline button-small" id="openIsim">ISIM login</button>
+  </header>
+
+  <main id="top">
+    <section class="hero" id="discover">
+      <div class="hero-copy">
+        <p class="eyebrow"><span></span> Student-first admissions guidance</p>
+        <h1>A better way to find <em>your</em> campus.</h1>
+        <p class="hero-intro">Explore colleges by city, branch, entrance exam and your interests. Understand the campus before you apply - then make a confident next move.</p>
+        <div class="hero-actions">
+          <a class="button button-dark" href="#matchFinder">Find my matches <span aria-hidden="true">↓</span></a>
+          <a class="button button-light" href="#pdfCollegePage" id="openCollegeList">Browse the full college list <span aria-hidden="true">→</span></a>
+          <button class="text-button" id="scrollToTest">Take aptitude test <span aria-hidden="true">→</span></button>
+          <a class="text-button" href="/branch-recommendation.html">Find Your Best Branch <span aria-hidden="true">→</span></a>
+        </div>
+        <div class="trust-row">
+          <div><strong>01</strong><span>single profile<br>for colleges</span></div>
+          <div><strong>06</strong><span>paths to<br>explore at HCST</span></div>
+          <div><strong>100%</strong><span>student-led<br>shortlisting</span></div>
+        </div>
+      </div>
+      <div class="hero-art" aria-label="Illustrated college discovery map">
+        <div class="hero-orbit orbit-one"></div>
+        <div class="hero-orbit orbit-two"></div>
+        <div class="map-card map-card-main">
+          <p>YOUR DISCOVERY MAP</p>
+          <div class="route route-one"></div><div class="route route-two"></div>
+          <span class="pin pin-one">01</span><span class="pin pin-two">02</span><span class="pin pin-three">03</span>
+          <div class="map-label label-one">Mathura<br><b>HCST</b></div>
+          <div class="map-label label-two">Noida</div>
+          <div class="map-label label-three">Lucknow</div>
+          <svg class="map-shape" viewBox="0 0 420 360" aria-hidden="true"><path d="M58 225C55 170 101 105 171 100c45-45 129-23 146 29 65 28 66 102 8 139-66 32-96 52-170 31-38 6-91-20-97-74Z" /></svg>
+        </div>
+        <div class="floating-stat"><span class="spark">✦</span><div><b id="matchNumber">08</b><small>matched pathways</small></div></div>
+        <div class="floating-profile"><span class="avatar">K</span><div><b>Profile ready</b><small>Share when you choose</small></div><span class="check">✓</span></div>
+      </div>
+    </section>
+
+    <section class="student-dashboard" id="studentDashboard" hidden aria-labelledby="dashboardTitle">
+      <div class="dashboard-ambient" aria-hidden="true"></div>
+      <div class="dashboard-heading">
+        <div><p class="eyebrow"><span></span> Your private student space</p><h2 id="dashboardTitle">Welcome back,<br><em id="dashboardGreeting">student.</em></h2><p>Your verified profile, admission enquiries and delivery receipts are together here.</p></div>
+        <div class="dashboard-status"><span class="dashboard-live-dot"></span><div><b>SESSION ACTIVE</b><small>Private to this browser</small></div><button type="button" class="dashboard-profile-link" id="dashboardProfileShortcut">Data storage details ↗</button></div>
+      </div>
+      <div class="dashboard-grid">
+        <article class="dashboard-feature">
+          <div class="dashboard-feature-top"><span>YOUR ADMISSION JOURNEY</span><span id="dashboardInitials">NC</span></div>
+          <h3 id="dashboardStudentName">Student profile</h3>
+          <p id="dashboardStudentBranch">Choose a branch to personalize your next steps.</p>
+          <div class="dashboard-contact"><span>VERIFIED RECEIPT CHANNEL</span><b id="dashboardChannel">Email</b><small id="dashboardContact">Contact details stay private in your profile.</small></div>
+          <button class="button button-light" id="dashboardAskQuestion">Start an admission enquiry <span aria-hidden="true">↗</span></button>
+        </article>
+        <div class="dashboard-side">
+          <div class="dashboard-metrics">
+            <article><span>01 / PROFILE</span><b id="dashboardQualification">—</b><small>Latest qualification</small></article>
+            <article><span>02 / ENQUIRIES</span><b id="dashboardEnquiryCount">0</b><small>Saved in your history</small></article>
+            <article><span>03 / NEXT STEP</span><b id="dashboardNextStep">Choose</b><small>Compare a college or ask a question</small></article>
+          </div>
+          <div class="dashboard-history"><div class="dashboard-history-head"><div><span>RECENT ACTIVITY</span><h3>Your enquiry trail</h3></div><span class="dashboard-history-icon">↘</span></div><div id="dashboardEnquiries" class="dashboard-enquiry-list"><p class="dashboard-empty">Your first enquiry receipt will appear here.</p></div></div>
+        </div>
+      </div>
+      <section class="admission-request" aria-labelledby="admissionRequestTitle">
+        <div class="admission-request-heading"><div><p class="eyebrow"><span></span> VERIFIED EMAIL DELIVERY</p><h3 id="admissionRequestTitle">Get Admission Information</h3><p>Search all colleges in the included Uttar Pradesh admissions dataset and Mathura directory. Select a college to see its listed branches and fee status, then email the information to your verified address.</p><small class="admission-directory-count" id="admissionDirectoryCount">Loading college directory…</small></div><span class="verified-email-badge">✓ <span id="admissionVerifiedEmail">Email verified</span></span></div>
+        <div class="admission-request-controls"><label>Search all included colleges<input id="admissionCollegeSearch" type="search" placeholder="Try college, city or branch" autocomplete="off"></label><label>Select a college<select id="admissionCollegeSelect"><option value="">Loading college directory…</option></select></label><label>Course / branch<select id="admissionCourseSelect" disabled><option value="">Select a college first</option></select></label></div>
+        <div id="admissionSelectedCards" class="admission-selected-grid" aria-live="polite"><p class="admission-empty">Add one or more colleges to review their verified admission details.</p></div>
+        <div class="admission-actions"><button type="button" class="button button-dark" id="sendAdmissionInformation" disabled>Send Selected College Information to My Email <span aria-hidden="true">↗</span></button><span id="admissionSendStatus" role="status" aria-live="polite"></span></div>
+        <div class="admission-history"><div><p class="eyebrow"><span></span> PRIVATE TO YOUR PROFILE</p><h4>Admission Information History</h4></div><div id="admissionRequestHistory" aria-live="polite"><p class="admission-empty">Requests you send will appear here.</p></div></div>
+      </section>
+      <p class="dashboard-note">Enquiry receipts confirm that your selected provider accepted the message. They do not submit your question to a college admissions office.</p>
+    </section>
+
+    <section class="finder-section" id="matchFinder" aria-labelledby="finderTitle">
+      <div class="section-heading compact">
+        <div>
+          <p class="eyebrow"><span></span> College matching</p>
+          <h2 id="finderTitle">Start with what matters to <em>you.</em></h2>
+        </div>
+        <p>Use any combination of filters. Results update instantly and keep HCST featured by default.</p>
+      </div>
+      <div class="finder-card">
+        <div class="finder-grid">
+          <label>Preferred city
+            <select id="cityFilter">
+              <option value="all">All listed cities</option>
+              <option value="Mathura">Mathura</option>
+              <option value="Agra">Agra</option>
+              <option value="Gautam Buddh Nagar">Gautam Buddh Nagar</option>
+              <option value="Ghaziabad">Ghaziabad</option>
+              <option value="Lucknow">Lucknow</option>
+              <option value="Sultanpur">Sultanpur</option>
+            </select>
+          </label>
+          <label>Entrance route
+            <select id="entranceFilter">
+              <option value="all">Any listed route</option>
+              <option value="JEE Main">JEE Main</option>
+              <option value="CUET">CUET</option>
+              <option value="UPTAC">UPTAC preference list</option>
+              <option value="College process">College process / merit</option>
+            </select>
+          </label>
+          <label>Score / percentile
+            <input id="scoreFilter" type="number" min="0" max="100" placeholder="e.g. 72">
+          </label>
+          <label>Interested branch
+            <select id="branchFilter">
+              <option value="all">Any branch</option>
+              <option value="AIML">AI &amp; ML</option>
+              <option value="IT">Information Technology</option>
+              <option value="ECE">Electronics &amp; Communication</option>
+              <option value="BBA">BBA</option>
+              <option value="MBA">MBA</option>
+              <option value="BCA">BCA</option>
+              <option value="MTECH">M.Tech</option>
+              <option value="CSE">Computer Science &amp; Engineering</option>
+              <option value="ENGINEERING">Engineering programmes</option>
+              <option value="MANAGEMENT">Management &amp; computing</option>
+              <option value="GENERAL">Arts, science &amp; commerce</option>
+              <option value="PROFESSIONAL">Law, pharmacy &amp; education</option>
+              <option value="DIPLOMA">Diploma programmes</option>
+            </select>
+          </label>
+        </div>
+      <div class="finder-bottom">
+          <div>
+            <span class="field-label">Your interested domain</span>
+            <div class="domain-chips" id="domainPicker">
+              <button data-domain="AI & Data">AI &amp; Data</button>
+              <button data-domain="Software & Cloud">Software &amp; Cloud</button>
+              <button data-domain="Electronics & VLSI">Electronics &amp; VLSI</button>
+              <button data-domain="Business & Finance">Business &amp; Finance</button>
+              <button data-domain="Engineering & Computing">Engineering &amp; Computing</button>
+              <button data-domain="Arts & Science">Arts &amp; Science</button>
+              <button data-domain="Law & Professional Study">Law &amp; Professional Study</button>
+              <button data-domain="Design & Product">Design &amp; Product</button>
+            </div>
+          </div>
+          <label class="toggle-label"><input type="checkbox" id="valueFilter"><span></span> Show value-focused choices</label>
+          <button class="button button-dark" id="applyFilters">View matches <span aria-hidden="true">→</span></button>
+        </div>
+      </div>
+      <div class="rank-row"><label>Your entrance rank (optional)<input id="rankFilter" type="number" min="1" placeholder="Enter rank to group choices"></label><button class="button button-light" id="rankChoices" type="button">Classify by rank</button><small id="rankNote">All colleges are shown first. Rank grouping is a demo guide, not a seat prediction.</small></div>
+      <p class="filter-note"><span>i</span> Matches are discovery guidance, not an admission prediction. Always verify current eligibility, cut-offs, fees and seat availability with each institution.</p>
+    </section>
+
+    <section class="results-section" aria-label="College matches">
+      <div class="results-main">
+        <div class="results-topline">
+          <p><b id="resultCount">08</b> pathways to explore <span id="activeFilterText">across Uttar Pradesh</span></p>
+          <button class="clear-button" id="resetFilters">Reset filters</button>
+        </div>
+        <div class="college-grid" id="collegeResults"></div>
+      </div>
+      <aside class="shortlist-panel" aria-label="Your shortlist">
+        <div class="shortlist-title"><div><p class="eyebrow"><span></span> Your shortlist</p><h3>Compare <em>calmly.</em></h3></div><span id="shortlistCount">0</span></div>
+        <p class="shortlist-empty" id="shortlistEmpty">Save up to three colleges. We will hold your comparison here.</p>
+        <div id="shortlistItems"></div>
+        <button class="button button-light full-width" id="compareButton" disabled>Compare choices <span aria-hidden="true">→</span></button>
+      </aside>
+    </section>
+
+    <section class="mathura-explorer" id="mathuraExplorer" aria-labelledby="mathuraExplorerTitle">
+      <div class="mathura-explorer-heading">
+        <div>
+          <p class="eyebrow light"><span></span> Local college guide · Mathura</p>
+          <h2 id="mathuraExplorerTitle">Find your next step<br><em>closer to home.</em></h2>
+          <p>Search campuses, compare course paths, open faculty directories and check the location before you plan a visit.</p>
+        </div>
+        <div class="mathura-count-orbit"><b id="mathuraCount">10</b><span>institution<br>profiles</span><i>✦</i></div>
+      </div>
+      <div class="mathura-stats" aria-label="Mathura guide summary">
+        <div><span>01 / COLLEGES</span><b id="mathuraCollegeStat">10</b><small>district directory + UPTAC list</small></div>
+        <div><span>02 / COURSE PATHS</span><b id="mathuraCourseStat">—</b><small>published programme summaries</small></div>
+        <div><span>03 / FACULTY</span><b>Source linked</b><small>official profiles where available</small></div>
+      </div>
+      <div class="mathura-explorer-tools">
+        <label class="mathura-search">Search college, course or area<input id="mathuraSearch" type="search" placeholder="Try AI & ML, law, Farah or GLA" autocomplete="off"></label>
+        <label>Institution type<select id="mathuraCategory"><option value="all">All types</option><option>University</option><option>Engineering &amp; Technology</option><option>Engineering &amp; Management</option><option>Technical Campus</option><option>Arts, Science &amp; Commerce</option><option>Law &amp; Professional Studies</option></select></label>
+        <a class="button button-light" href="https://www.google.com/maps/search/?api=1&amp;query=colleges+in+Mathura%2C+Uttar+Pradesh" target="_blank" rel="noreferrer">Explore Mathura on Maps ↗</a>
+      </div>
+      <div class="mathura-map-strip">
+        <div><p class="eyebrow light"><span></span> Around Mathura</p><h3>See the city.<br><em>Pick your campus.</em></h3><p>Open any college card for its own address and map search.</p><a href="https://www.google.com/maps/search/?api=1&amp;query=colleges+in+Mathura%2C+Uttar+Pradesh" target="_blank" rel="noreferrer">Open the full map ↗</a></div>
+        <iframe title="Google Maps search for colleges in Mathura, Uttar Pradesh" src="https://maps.google.com/maps?q=colleges%20in%20Mathura%2C%20Uttar%20Pradesh&amp;output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+      <p class="mathura-results-count" id="mathuraResultCount" aria-live="polite"></p>
+      <div class="mathura-college-grid" id="mathuraCollegeResults" aria-live="polite"></div>
+      <div class="mathura-map-note"><span aria-hidden="true">⌖</span><p><b>Every campus card opens its own map search.</b> The city map shows Google Maps search results. Campus-level paths and buildings are shown only for HCST, whose site plan is included in this project.</p><a href="https://mathura.nic.in/public-utility-category/colleges/" target="_blank" rel="noreferrer">Mathura district source ↗</a></div>
+      <p class="mathura-scope-note" id="mathuraScopeNote">This discovery set combines the district administration's public college directory with the Mathura institutions in the supplied UPTAC preference order. It is not a census of every education institution in the district. Verify current admission, courses, faculty, fees and approvals with each college.</p>
+    </section>
+
+    <section class="pdf-college-page" id="pdfCollegePage" hidden aria-labelledby="pdfCollegeTitle"><div class="pdf-college-head"><p class="eyebrow"><span></span> Complete UPTAC preference-order college list</p><h2 id="pdfCollegeTitle">Explore every college<br><em>in your source PDF.</em></h2><p id="pdfCollegeSummary">Extracted in preference order from the supplied UPTAC Preference Order PDF.</p><label>Find a college or branch<input id="pdfCollegeSearch" type="search" placeholder="Search the full college list"></label><p class="pdf-college-count" id="pdfCollegeCount" aria-live="polite"></p><a class="button button-dark" href="data/Project_Data_Inventory.xlsx" download>Download Excel data &amp; database guide <span aria-hidden="true">↓</span></a></div><aside class="data-location-card"><div><span>APPLICATION DATABASE</span><b id="databaseLocation">data/nexus.sqlite</b><small>Created when the backend starts. DB_PATH in .env can override this location.</small></div><div><span>COLLEGE SOURCE</span><b>data/uptac-colleges.json</b><small>165 distinct college names and 636 ranked preference rows from the supplied 22-page PDF.</small></div><p>SQLite stores sessions, OTP challenges, rate limits, student profiles and admission enquiry history. Consented profile records are also written to data/student_profiles.xlsx. The Excel inventory contains college source data and storage guidance only.</p></aside><div class="pdf-college-grid" id="pdfCollegeResults"></div></section>
+
+    <section class="college-profile" id="collegeProfile" aria-labelledby="profileTitle">
+      <div class="profile-banner">
+        <div>
+          <p class="eyebrow light"><span></span> Featured by default</p>
+          <h2 id="profileTitle">Hindustan College of<br>Science &amp; Technology</h2>
+          <p id="profileLocation">Farah, Mathura - NH-19, Agra-Delhi Highway</p>
+        </div>
+        <div class="profile-badges"><span>HCST-064</span><span>Mathura</span><a href="https://hcst.edu.in/" target="_blank" rel="noreferrer">Official site ↗</a></div>
+      </div>
+      <div class="profile-shell">
+        <div class="profile-tabs" role="tablist" aria-label="College information">
+          <button class="active" data-tab="overview" role="tab">Overview</button>
+          <button data-tab="programs" role="tab">Programs</button>
+          <button data-tab="faculty" role="tab">Faculty</button>
+          <button data-tab="campus" role="tab">Campus</button>
+          <button data-tab="placement" role="tab">Placement</button>
+        </div>
+        <div class="profile-content">
+          <div class="tab-pane active" id="tab-overview">
+            <div class="overview-layout">
+              <div>
+                <p class="section-kicker">College snapshot</p>
+                <h3>Context before the campus visit.</h3>
+                <p id="overviewText">HCST is located at the 26 km milestone from Agra on the Agra-Delhi Highway. Its official faculty page describes a 29.4-acre campus with 1,00,000 sq. m of covered area.</p>
+                <div class="facts-row" id="overviewFacts"></div>
+                <button class="button button-dark" id="openVisit">Plan a campus visit <span aria-hidden="true">→</span></button>
+              </div>
+              <figure class="campus-photo">
+                <img src="https://cache.careers360.mobi/media/colleges/social-media/media-gallery/4274/2018/12/13/Campus%20View%20full%20of%20Hindustan%20College%20of%20Science%20and%20Technology%20Mathura_Campus-View.jpg" alt="Hindustan College of Science and Technology campus entrance">
+                <figcaption>Campus reference image. Check the official site when planning a visit.</figcaption>
+              </figure>
+            </div>
+          </div>
+          <div class="tab-pane" id="tab-programs">
+            <p class="section-kicker">Paths at a glance</p>
+            <h3>Choose a branch, then build a fuller picture.</h3>
+            <div class="program-list" id="programList"></div>
+          </div>
+          <div class="tab-pane" id="tab-faculty">
+            <div class="tab-heading-row"><div><p class="section-kicker">Faculty directory</p><h3>Meet the academic teams.</h3></div><p>Names and titles are drawn from the public HCST faculty directory. Individual qualifications and emails are deliberately shown as “verify” when they are not publicly listed.</p></div>
+            <div class="faculty-filters" id="facultyFilters"></div>
+            <div class="faculty-table-wrap"><table><thead><tr><th>Name</th><th>Department</th><th>Designation</th><th>Qualification</th><th>Email</th><th>Phone</th></tr></thead><tbody id="facultyRows"></tbody></table></div>
+          </div>
+          <div class="tab-pane" id="tab-campus">
+            <div class="tab-heading-row"><div><p class="section-kicker">Campus details</p><h3>Make the first visit feel familiar.</h3></div><a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Hindustan+College+of+Science+and+Technology+Mathura" target="_blank" rel="noreferrer">Open in Maps ↗</a></div>
+            <section class="plan3d walking-navigation" aria-labelledby="plan3dTitle">
+              <div class="plan3d-heading"><div><p class="section-kicker">Campus navigation · HCST Farah</p><h4 id="plan3dTitle">Find your way around.</h4><p>Choose Gate 1 or Gate 2 and a landmark to draw a clear suggested route over the supplied campus plan.</p></div><span class="map-mode">CAMPUS GUIDE</span></div>
+              <div class="campus-search-wrap"><label for="campusSearch">Search building, lab, department or facility</label><input id="campusSearch" type="search" placeholder="Search campus locations" autocomplete="off"><div id="campusSearchResults" class="campus-search-results" role="listbox"></div></div>
+              <div id="campusDestinationInfo" class="campus-destination-info" hidden></div>
+              <div class="plan3d-controls"><label>Start at<select id="campusRouteStart"><option value="gate1">Gate 1</option><option value="gate2">Gate 2</option></select></label><label>Destination<select id="campusDestination"></select></label><button class="button button-dark" id="startNavigation" type="button">Show campus route <span aria-hidden="true">➤</span></button><button class="button button-outline" id="stopNavigation" type="button" disabled>Clear route</button><span id="gpsStatus" role="status" aria-live="polite">Suggested directions follow the schematic plan paths. Confirm with campus staff.</span></div>
+              <div class="next-turn" aria-live="polite"><span class="turn-arrow" id="turnArrow">↑</span><div><b id="turnInstruction">Choose a destination</b><small id="turnDistance">Distance estimates are schematic</small></div><div class="destination-chip"><small>DESTINATION</small><b id="destinationLabel">Not selected</b></div></div>
+              <div class="plan3d-viewport nav-viewport" id="plan3dViewport" aria-label="Campus walking map. Map follows your position and direction after you start location access."><div class="plan3d-surface nav-world" id="plan3dSurface"><img src="assets/hcst-campus-plan.jpg" alt="Original campus site plan supplied by the user; buildings and campus layout remain unchanged"><svg class="walk-route" id="walkRoute" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"><path id="walkRoutePath" d=""></path><path id="routeArrows" d=""></path></svg><div class="map-stops" id="mapStops"></div><div class="student-marker" id="studentMarker" hidden><span>➤</span></div></div><div class="screen-location-arrow" aria-hidden="true" hidden><span>▲</span><small>YOU</small></div><div class="map-compass" aria-hidden="true"><b>N</b><span id="compassNeedle">↑</span></div><div class="map-zoom"><button id="zoomIn" type="button" aria-label="Zoom in">+</button><button id="zoomOut" type="button" aria-label="Zoom out">−</button><button id="toggleMapView" type="button" aria-label="Toggle 2D and 3D view">3D</button><button id="resetCompass" type="button" aria-label="Reset map orientation">N</button><button id="recenterMap" type="button" aria-label="Recenter on my location">⌖</button><button id="fullscreenMap" type="button" aria-label="Fullscreen map">⛶</button></div></div>
+              <div class="plan3d-caption"><b id="currentStopName">Ready to navigate</b><span id="currentStopDetail">Hindustan College of Science &amp; Technology, Farah, Mathura</span><a href="https://www.google.com/maps/search/?api=1&query=Hindustan+College+of+Science+and+Technology+Farah+Mathura" target="_blank" rel="noreferrer">Open campus location in Google Maps ↗</a></div>
+              <p class="plan3d-note">The pink route overlay is a suggested path traced from the supplied campus schematic. It is for orientation only: the drawing is not GPS-aligned or surveyed, so the line does not establish a road, accessible path, scale, distance, travel time or live position. The printed “You are here” marker is part of the image. Confirm the route on site with HCST staff.</p>
+            </section>
+            <div class="campus-layout">
+              <div class="campus-map" aria-label="Illustrative campus zone map">
+                <span class="map-road">NH-19 / Agra-Delhi Highway</span>
+                <button class="zone zone-a active" data-zone="Academic Block">A<span>Academic block</span></button>
+                <button class="zone zone-b" data-zone="Labs & workshops">L<span>Labs</span></button>
+                <button class="zone zone-c" data-zone="Student facilities">S<span>Facilities</span></button>
+                <button class="zone zone-d" data-zone="Visit desk">V<span>Visit desk</span></button>
+                <div class="map-path path-a"></div><div class="map-path path-b"></div>
+                <p id="zoneText">Academic Block - a starting point for your guided visit.</p>
+              </div>
+              <div class="campus-data">
+                <div><span>Site area</span><b>29.4 acres</b><small>Official HCST overview</small></div>
+                <div><span>Covered area</span><b>1,00,000 sq. m</b><small>Official HCST overview</small></div>
+                <div><span>Floors</span><b>Verify with college</b><small>Not published in supplied source</small></div>
+                <div><span>Classrooms</span><b>Verify with college</b><small>Per-floor count not published</small></div>
+              </div>
+            </div>
+            <div class="lab-gallery">
+              <figure><img src="https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/4274/2018/12/13/IT%20Lab%20of%20Hindustan%20College%20of%20Science%20and%20Technology%20Mathura_IT-Lab.jpg" alt="IT lab session at HCST"><figcaption>IT lab reference</figcaption></figure>
+              <figure><img src="https://cache.careers360.mobi/media/colleges/social-media/media-gallery/4274/2018/12/13/Classroom%20of%20Hindustan%20College%20of%20Science%20and%20Technology%20Mathura_Classroom.jpg" alt="Classroom at HCST"><figcaption>Classroom reference</figcaption></figure>
+              <div class="gallery-copy"><p class="section-kicker">See it in person</p><h4>Photos give a feel. A visit answers the important questions.</h4><p>Ask about class size, labs, accessibility, hostels and the exact building layout when booking.</p><button class="text-button" id="openVisitGallery">Book a campus visit →</button></div>
+            </div>
+          </div>
+          <div class="tab-pane" id="tab-placement">
+            <p class="section-kicker">Placement & preparation</p>
+            <h3>Look beyond a single headline number.</h3>
+            <div class="placement-grid">
+              <article><span>01</span><h4>Explore official outcomes</h4><p>The HCST site maintains a student placements area and placement resources. Use the source link to check the newest outcomes by programme.</p><a href="https://hcst.edu.in/placement/students-placements/" target="_blank" rel="noreferrer">Open placements page ↗</a></article>
+              <article><span>02</span><h4>Ask sharp questions</h4><p>During a visit, ask for branch-wise placement participation, roles, recruiters, median package and the graduating batch year.</p></article>
+              <article><span>03</span><h4>Build your readiness</h4><p>Use the training-department aptitude test below as a small practice step, then make a personal learning plan.</p><button class="text-button" id="placementToTest">Try the test →</button></article>
+            </div>
+          </div>
+        </div>
+        <div class="profile-action-row">
+          <div><span class="status-dot"></span> Your profile stays private until you choose to share it.</div>
+          <button class="button button-dark" id="sendToCollege">Send my profile to this college <span aria-hidden="true">→</span></button>
+        </div>
+      </div>
+      <section class="admission-contact" id="admissionContacts"><p class="section-kicker">Verified admission-cell contacts · HCST</p><h3>Talk to the admissions team.</h3><div class="contact-cards"><article><b>Mr. Anurag Bajpai</b><a href="tel:+919568006059">+91 956 800 6059</a></article><article><b>Dr. Vinod Kumar Kushwah</b><a href="tel:+917060888544">+91 706 088 8544</a></article><article><b>Dr. Keshav Dev</b><a href="tel:+919412558688">+91 941 255 8688</a></article><article><b>Admission helpline</b><a href="tel:+919105333150">+91 910 533 3150</a></article></div><p>Published on the <a href="https://hcst.edu.in/contact-us/" target="_blank" rel="noreferrer">official HCST contact page</a>. Other college contacts need verification with each institution.</p></section>
+      <section class="campus-links"><p class="section-kicker">Campus map &amp; gallery</p><h3>Add a 3D map or image link.</h3><p>Open the supplied branch and campus reference. Use the fields below to preview your own image URL in this browser.</p><div class="link-cards"><a href="https://notesgallery.com/b-tech-aktu/" target="_blank" rel="noreferrer">B.Tech AKTU college reference ↗</a><a href="https://www.google.com/maps/search/?api=1&query=Hindustan+College+Mathura" target="_blank" rel="noreferrer">Open campus map ↗</a></div><form id="imageLinkForm"><label>Paste an image URL<input id="imageUrl" type="url" placeholder="https://example.com/campus.jpg"></label><button class="button button-light" type="submit">Preview image</button><p class="form-status" id="imageStatus"></p><img id="imagePreview" alt="Student supplied campus image preview" hidden></form></section>
+    </section>
+
+    <section class="aptitude-section" id="aptitude" aria-labelledby="aptitudeTitle">
+      <div class="aptitude-copy">
+        <p class="eyebrow"><span></span> Training department practice</p>
+        <h2 id="aptitudeTitle">Your interest has a direction.<br><em>Test the next step.</em></h2>
+        <p>This short, branch-aware aptitude check is a practice prototype. It is not an official admission test or scholarship decision.</p>
+        <div class="test-legend"><span><i class="legend-dot green"></i> 3 questions</span><span><i class="legend-dot amber"></i> 3 minutes</span><span><i class="legend-dot blue"></i> instant reflection</span></div>
+      </div>
+      <form class="test-card" id="aptitudeForm">
+        <div class="test-card-top"><span>APTITUDE CHECK / 01</span><span id="testBranchLabel">AI &amp; ML path</span></div>
+        <div class="question" data-question="q1"><p><b>01</b> Which approach learns patterns from labelled examples?</p><label><input type="radio" name="q1" value="0"> Unsupervised learning</label><label><input type="radio" name="q1" value="1"> Supervised learning</label><label><input type="radio" name="q1" value="0"> Random search</label></div>
+        <div class="question" data-question="q2"><p><b>02</b> A course has 40 seats and 30 are filled. What percentage are filled?</p><label><input type="radio" name="q2" value="0"> 25%</label><label><input type="radio" name="q2" value="1"> 75%</label><label><input type="radio" name="q2" value="0"> 90%</label></div>
+        <div class="question" data-question="q3"><p><b>03</b> What is the best first step when comparing two colleges?</p><label><input type="radio" name="q3" value="1"> Compare verified programme details against your goals</label><label><input type="radio" name="q3" value="0"> Pick only from a social-media post</label><label><input type="radio" name="q3" value="0"> Ignore the branch and location</label></div>
+        <button class="button button-dark full-width" type="submit">See my practice result <span aria-hidden="true">→</span></button>
+        <div class="test-result" id="testResult" aria-live="polite"></div>
+      </form>
+    </section>
+
+    <section class="journey-section" id="support">
+      <div class="section-heading">
+        <div><p class="eyebrow"><span></span> Admission support</p><h2>One profile. <em>More informed</em> conversations.</h2></div>
+        <p>Keep your records in one place, share only with your consent, and get a direct response from the college team you are considering.</p>
+      </div>
+      <div class="journey-grid">
+        <article><span>01</span><h3>Verify one channel</h3><p>Choose a real email code or a WhatsApp verification code before creating your student profile.</p><button class="text-button open-auth">Verify &amp; create profile →</button></article>
+        <article><span>02</span><h3>Keep your records together</h3><p>Your academic details are saved to your private student record. They are shared only when you choose to do so.</p><button class="text-button open-auth">Set up my profile →</button></article>
+        <article><span>03</span><h3>Get an enquiry receipt</h3><p>Send your question to your verified email or WhatsApp and track the provider response in your dashboard.</p><button class="text-button" id="openEnquiry">Ask an admissions question →</button></article>
+      </div>
+    </section>
+
+    <section class="data-storage-section" id="dataStorage" aria-labelledby="dataStorageTitle">
+      <div class="data-storage-heading"><p class="eyebrow"><span></span> Clear, local data storage</p><h2 id="dataStorageTitle">Know where your details <em>live.</em></h2><p>Student records stay with the backend project folder. The app never exposes the Excel file as a public download.</p></div>
+      <div class="data-storage-grid">
+        <article><span>01 · SIGN-IN</span><h3>Session and OTP state</h3><p><code>data/nexus.sqlite</code> stores session hashes, OTP challenge hashes, expiry and verification status. There is no password-based student login in this prototype.</p></article>
+        <article><span>02 · STUDENT PROFILE</span><h3>SQLite plus Excel</h3><p>After your selected contact is verified and you consent, your name, contact and academic details are saved to <code>data/student_profiles.xlsx</code> and the SQLite profile table.</p></article>
+        <article><span>03 · ACCESS</span><h3>Project folder only</h3><p>The backend blocks these private files from website downloads. The project operator can open the Excel workbook from the server's <code>data</code> folder.</p></article>
+      </div>
+    </section>
+
+    <section class="nearby-section">
+      <div>
+        <p class="eyebrow"><span></span> Neighbourhood support</p>
+        <h2>Planning a visit?<br>Find a place to <em>stay nearby.</em></h2>
+        <p>Get a practical, budget-aware PG and hostel checklist after you choose a city. Listings are not endorsements - verify safety, rules, commute and current prices yourself.</p>
+        <button class="button button-dark" id="showStayTips">Show Mathura stay checklist <span aria-hidden="true">→</span></button>
+      </div>
+      <div class="stay-card" id="stayCard">
+        <div class="stay-top"><span class="location-pin">⌖</span><div><p>NEAR FARAH, MATHURA</p><b>Stay smarter</b></div></div>
+        <ul><li><span>01</span> Ask for the actual travel time to campus at class hours.</li><li><span>02</span> Confirm a written fee, deposit and notice-period breakdown.</li><li><span>03</span> Visit in daylight and check security, water and Wi-Fi.</li></ul>
+        <a href="https://www.google.com/maps/search/?api=1&query=PG+near+Hindustan+College+of+Science+and+Technology+Mathura" target="_blank" rel="noreferrer">Search nearby options in Maps ↗</a>
+      </div>
+    </section>
+
+    <section class="source-section">
+      <p><b>Data note.</b> The Mathura explorer combines the district administration's college directory with Mathura entries from the supplied UPTAC preference-order PDF. Course and faculty cards link to public institutional sources. The combined discovery set is not a census of every institution in the district; current admissions and staff details should be confirmed with each college.</p>
+      <a href="SOURCES.md">View source &amp; prototype notes →</a>
+    </section>
+  </main>
+
+  <footer>
+    <a class="brand" href="#top"><span class="brand-mark"><i></i><i></i><i></i></span><span>NEXUS<span>CAMPUS</span><em>AI</em></span></a>
+    <p>Discover with context. Decide with confidence.</p>
+    <p>Prototype interface · <span id="currentYear"></span></p>
+  </footer>
+
+  <button class="chat-launcher" id="openChat" aria-label="Open Nexus help chat"><span>✦</span><small>Ask Nexus</small></button>
+  <section class="chat-panel" id="chatPanel" aria-label="Nexus AI help chat" hidden>
+    <div class="chat-head"><div><span>✦</span><div><b>Nexus Guide</b><small>Prototype support assistant</small></div></div><button id="closeChat" aria-label="Close chat">×</button></div>
+    <div class="chat-log" id="chatLog"><div class="bot-message">Hi, I can help you filter colleges, understand JEE/CUET routes, prepare for a visit or share a question with a counsellor. What are you deciding?</div></div>
+    <div class="quick-prompts"><button data-prompt="How do I filter by JEE score?">JEE score</button><button data-prompt="What should I ask on a visit?">Visit questions</button><button data-prompt="How do I contact a counsellor?">Counsellor</button></div>
+    <form class="chat-form" id="chatForm"><input id="chatInput" placeholder="Ask a question..." autocomplete="off"><button aria-label="Send message">↑</button></form>
+  </section>
+
+  <dialog id="authModal" class="modal">
+    <button class="modal-close" data-close="authModal" aria-label="Close">×</button>
+    <div class="modal-header"><p class="eyebrow"><span></span> Student profile</p><h2>Make your first<br><em>secure step.</em></h2><p id="otpModeCopy">Choose email or WhatsApp. A code appears here only after the provider accepts the request.</p></div>
+    <form id="profileForm">
+      <div class="form-step"><span>01</span><div><h3>About you</h3><div class="form-grid"><label>Full name<input id="studentName" required placeholder="Your name"></label><label>Interested branch<select id="studentBranch"><option value="AIML">AI & ML</option><option value="IT">Information Technology</option><option value="ECE">Electronics & Communication</option><option value="BBA">BBA</option><option value="MBA">MBA</option><option value="BCA">BCA</option><option value="MTECH">M.Tech</option></select></label></div></div></div>
+      <div class="form-step"><span>02</span><div><h3>Verify your contact channel</h3><div class="form-grid"><label>Mobile number<input id="studentMobile" type="tel" autocomplete="tel" pattern="\+[1-9][0-9]{7,14}" required placeholder="+919876543210"><small>Include country code (E.164 format).</small></label><label>Email address<input id="studentEmail" type="email" autocomplete="email" required placeholder="you@example.com"></label></div><div class="verify-row otp-verify-grid"><label>Send code by<select id="otpChannel"><option value="email">Email</option><option value="whatsapp">WhatsApp</option></select></label><button type="button" class="button button-outline" id="sendOtp">Send email OTP</button><label>6-digit code<input id="otpCode" inputmode="numeric" autocomplete="one-time-code" maxlength="6" pattern="[0-9]{6}" placeholder="Enter code"></label><button type="button" class="button button-light" id="verifyOtp">Verify code</button></div><p class="demo-code" id="otpStatus" aria-live="polite"></p><p class="otp-countdown" id="otpCountdown" hidden></p></div></div>
+      <div class="form-step"><span>03</span><div><h3>Your academic snapshot</h3><div class="form-grid three"><label>Class 10 qualification<input id="class10" required placeholder="e.g. CBSE / ICSE"></label><label>Class 10 score<input id="class10Score" required placeholder="e.g. 86%"></label><label>Class 12 qualification<input id="class12" required placeholder="e.g. PCM / Commerce"></label><label>Class 12 score<input id="class12Score" required placeholder="e.g. 82%"></label><label>Entrance route<select id="studentEntrance"><option>JEE Main</option><option>CUET</option><option>Other / not yet taken</option></select></label><label>Score / percentile<input id="studentScore" placeholder="Optional"></label></div></div></div>
+      <label class="consent"><input type="checkbox" id="profileConsent" required> I consent to NexusCampus using these details to create my student profile. My details are not sent to a college unless I separately choose to share them.</label>
+      <aside class="profile-storage-note"><b>Saved after verification and consent</b><span>Student profile: <code>data/student_profiles.xlsx</code> and <code>data/nexus.sqlite</code>. Passwords are not stored. Your dashboard uses the verified browser session.</span></aside>
+      <button class="button button-dark full-width" type="submit">Create my student profile <span aria-hidden="true">→</span></button>
+      <p class="form-status" id="profileStatus" aria-live="polite"></p>
+    </form>
+  </dialog>
+
+  <dialog id="isimModal" class="modal small-modal"><button class="modal-close" data-close="isimModal" aria-label="Close">×</button><div class="modal-header"><p class="eyebrow"><span></span> Institution portal</p><h2>ISIM <em>login.</em></h2><p>The institution sign-in service is not connected in this prototype.</p></div><div class="login-status-card"><span>NOT CONNECTED</span><b>No password login is active</b><p>No username or password is requested or stored. This prototype saves a browser session digest and verified student profile details in the local project data folder.</p></div><button type="button" class="button button-dark full-width" id="isimCreateProfile">Create a student profile <span aria-hidden="true">→</span></button></dialog>
+
+  <dialog id="enquiryModal" class="modal small-modal">
+    <button class="modal-close" data-close="enquiryModal" aria-label="Close">×</button>
+    <div class="modal-header"><p class="eyebrow"><span></span> Direct enquiry</p><h2>Ask a question<br><em>with context.</em></h2></div>
+    <form id="enquiryForm"><label>College<select id="enquiryCollege"></select></label><label>Your question<textarea id="enquiryText" required maxlength="1200" placeholder="Example: What are the eligibility and admission steps for my chosen program?"></textarea></label><label class="consent"><input type="checkbox" required> Save this question to my dashboard and send me a receipt on my verified contact channel.</label><p class="enquiry-privacy-note">This creates a receipt for you. It does not send your question to a college admissions office.</p><button class="button button-dark full-width" type="submit">Send enquiry receipt <span aria-hidden="true">→</span></button><p class="form-status" id="enquiryStatus" aria-live="polite"></p></form>
+  </dialog>
+
+  <dialog id="visitModal" class="modal small-modal">
+    <button class="modal-close" data-close="visitModal" aria-label="Close">×</button>
+    <div class="modal-header"><p class="eyebrow"><span></span> Campus visit</p><h2>Choose a time to<br><em>see more clearly.</em></h2></div>
+    <form id="visitForm"><label>College<select id="visitCollege"></select></label><label>Preferred date<select id="visitDate"><option>Saturday, 20 September · 11:00 AM</option><option>Tuesday, 23 September · 2:00 PM</option><option>Saturday, 27 September · 11:00 AM</option></select></label><label>Anything you want to see?<select id="visitFocus"><option>Campus overview</option><option>Labs and classrooms</option><option>Faculty / branch discussion</option><option>Hostel and commute questions</option></select></label><button class="button button-dark full-width" type="submit">Request this visit <span aria-hidden="true">→</span></button><p class="form-status" id="visitStatus"></p></form>
+  </dialog>
+
+  <dialog id="mathuraCollegeModal" class="modal mathura-detail-modal" aria-labelledby="mathuraDetailTitle">
+    <button class="modal-close" data-close="mathuraCollegeModal" aria-label="Close college details">×</button>
+    <div id="mathuraCollegeDetail"></div>
+  </dialog>
+
+  <dialog id="compareModal" class="modal compare-modal">
+    <button class="modal-close" data-close="compareModal" aria-label="Close">×</button>
+    <div class="modal-header"><p class="eyebrow"><span></span> Shortlist comparison</p><h2>Compare the <em>right</em><br>details.</h2></div>
+    <div class="comparison-wrap" id="comparisonWrap"></div>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>

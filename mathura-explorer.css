@@ -1,0 +1,81 @@
+.mathura-explorer{position:relative;isolation:isolate;max-width:1320px;margin:46px auto 76px;padding:54px 56px 38px;overflow:hidden;background:radial-gradient(ellipse at 92% 8%,#2f604a 0,transparent 34%),linear-gradient(145deg,#0b3029,#123d33 66%,#173e35);color:#f5f5e9;box-shadow:0 24px 60px #173a2b22}
+.mathura-explorer:before,.mathura-explorer:after{position:absolute;z-index:-1;content:"";border:1px solid #dbefbd19;border-radius:50%;pointer-events:none}
+.mathura-explorer:before{width:560px;height:560px;right:-260px;top:-290px;box-shadow:0 0 0 42px #e3f5c20a,0 0 0 88px #e3f5c207}
+.mathura-explorer:after{width:280px;height:280px;left:-160px;bottom:60px;box-shadow:0 0 0 35px #e3f5c20a}
+.mathura-explorer-heading{display:flex;justify-content:space-between;align-items:center;gap:32px;margin-bottom:30px}
+.mathura-explorer-heading .eyebrow{color:#d8f178}
+.mathura-explorer-heading h2{margin:0;font-size:49px;line-height:1.02;letter-spacing:-2.8px}
+.mathura-explorer-heading h2 em,.mathura-map-strip h3 em{font-family:var(--serif);font-weight:500;color:#d8f178}
+.mathura-explorer-heading>div:first-child>p:last-child{max-width:600px;margin:14px 0 0;color:#c5d5ca;font-size:13px}
+.mathura-count-orbit{position:relative;display:flex;align-items:center;gap:13px;min-width:170px;padding:15px 19px;border:1px solid #91ad8f;background:#ffffff0b}
+.mathura-count-orbit>b{font:42px/1 var(--mono);color:#d8f178}
+.mathura-count-orbit>span{color:#e5ede2;font-size:10px;line-height:1.35;text-transform:uppercase;letter-spacing:.7px}
+.mathura-count-orbit>i{position:absolute;right:13px;top:8px;color:#f1bf67;font-size:12px;font-style:normal}
+.mathura-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:0 0 21px}
+.mathura-stats>div{min-height:100px;padding:15px 17px;border:1px solid #c5d5c133;background:#f7fff90c}
+.mathura-stats span{display:block;color:#b6cbbd;font:8px var(--mono);letter-spacing:.8px}
+.mathura-stats b{display:block;margin-top:11px;color:#fff;font-size:19px;line-height:1.15}
+.mathura-stats small{display:block;margin-top:5px;color:#b7cabe;font-size:9px}
+.mathura-explorer-tools{display:grid;grid-template-columns:minmax(220px,1.4fr) minmax(170px,.8fr) auto;gap:11px;align-items:end;padding:15px;background:#071f19aa;border:1px solid #9fb99955}
+.mathura-explorer-tools label{display:grid;gap:6px;color:#dce7dc;font-size:10px;font-weight:800}
+.mathura-explorer-tools input,.mathura-explorer-tools select{width:100%;min-height:43px;padding:10px 12px;border:1px solid #9bb1a0;background:#f8f7ee;color:#15352b;font-size:12px}
+.mathura-explorer-tools .button{min-height:43px;white-space:nowrap}
+.mathura-results-count{min-height:15px;margin:13px 0 10px;color:#bdd0c2;font:9px var(--mono);letter-spacing:.2px}
+.mathura-college-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}
+.mathura-college-card{display:flex;flex-direction:column;min-height:250px;padding:17px 17px 14px;border:1px solid #d9e6d725;border-top:3px solid #cfdf8e;background:linear-gradient(160deg,#f9f8f0,#edf1e6);color:#163b30;transition:transform .2s,box-shadow .2s,border-color .2s}
+.mathura-college-card:hover{transform:translateY(-3px);border-color:#cde08d;box-shadow:0 14px 25px #051b1555}
+.mathura-card-top{display:flex;justify-content:space-between;align-items:center;gap:7px}
+.mathura-card-category{color:#577069;font:8px var(--mono);letter-spacing:.7px;text-transform:uppercase}
+.mathura-card-source{padding:4px 6px;background:#e4edd0;color:#41604c;font-size:8px;font-weight:800}
+.mathura-college-card h3{margin:12px 0 5px;color:#123b30;font-size:17px;line-height:1.23;letter-spacing:-.4px}
+.mathura-card-address{display:flex;gap:5px;align-items:flex-start;margin:0;color:#65766d;font-size:9px;line-height:1.45}
+.mathura-card-address span{color:#c86d47;font-size:12px}
+.mathura-course-preview{display:flex;flex-wrap:wrap;gap:5px;margin:12px 0}
+.mathura-course-preview span{padding:5px 7px;border:1px solid #d7e0d3;background:#fffdf8;color:#476359;font-size:8px;line-height:1.2}
+.mathura-course-preview .course-more{background:#e7eed8;color:#365646;font-weight:800}
+.mathura-card-meta{margin:auto 0 12px;padding-top:9px;border-top:1px solid #dce2d8;color:#718077;font:8px var(--mono);letter-spacing:.3px}
+.mathura-card-actions{display:flex;align-items:center;justify-content:space-between;gap:7px}
+.mathura-card-actions button,.mathura-card-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:34px;padding:8px 10px;border:1px solid #c9d5c7;background:transparent;color:#1b503c;font-size:9px;font-weight:800}
+.mathura-card-actions button:first-child{flex:1;border-color:#174b3c;background:#174b3c;color:#fff}
+.mathura-card-actions button:hover,.mathura-card-actions a:hover{background:#d8f178;color:#183829}
+.mathura-empty{grid-column:1/-1;padding:25px;border:1px dashed #9bb5a3;color:#d6e2d8;text-align:center;font-size:12px}
+.mathura-map-strip{display:grid;grid-template-columns:minmax(200px,.65fr) minmax(0,1.35fr);gap:15px;min-height:220px;margin:17px 0 0;padding:12px;border:1px solid #acc5ac55;background:#f6f5eb}
+.mathura-map-strip>div{align-self:center;padding:10px 17px;color:#153c30}
+.mathura-map-strip .eyebrow{margin-bottom:9px;color:#4f7863;font-size:8px}
+.mathura-map-strip h3{margin:0;font-size:23px;line-height:1.08;letter-spacing:-.7px}
+.mathura-map-strip h3 em{color:#315c43}
+.mathura-map-strip>div>p:not(.eyebrow){max-width:250px;margin:8px 0;color:#63756a;font-size:9px}
+.mathura-map-strip a{color:#1a6047;font-size:9px;font-weight:800;text-decoration:underline}
+.mathura-map-strip iframe{width:100%;height:220px;border:0;background:#e5e9de}
+.mathura-map-note{display:flex;align-items:center;gap:10px;margin:13px 0 0;padding:12px 14px;border:1px solid #aac5ad44;background:#ffffff0a}
+.mathura-map-note>span{color:#d8f178;font-size:23px}
+.mathura-map-note p{flex:1;margin:0;color:#c5d5ca;font-size:9px;line-height:1.55}
+.mathura-map-note p b{color:#f1f4e7}
+.mathura-map-note a{color:#d8f178;font-size:9px;font-weight:800;white-space:nowrap}
+.mathura-scope-note{max-width:900px;margin:13px 0 0;color:#a9c0b1;font-size:8px;line-height:1.6}
+.mathura-detail-modal{width:min(850px,calc(100% - 28px));max-width:850px;max-height:min(88vh,880px);overflow:auto;padding:38px;background:#f8f6ee}
+.mathura-detail-modal .modal-close{position:sticky;float:right;top:0;z-index:3;margin:-20px -19px 0 0}
+.mathura-detail-head{padding:15px 0 19px;border-bottom:1px solid #d8dfd4}
+.mathura-detail-head .eyebrow{margin-bottom:8px}
+.mathura-detail-head h2{max-width:680px;margin:0;color:#143a30;font-size:31px;line-height:1.05;letter-spacing:-1.6px}
+.mathura-detail-head>p:last-child{margin:9px 0 0;color:#65756b;font-size:11px}
+.mathura-detail-actions{display:flex;flex-wrap:wrap;gap:8px;margin:15px 0 22px}
+.mathura-detail-actions a,.mathura-detail-actions button{display:inline-flex;align-items:center;justify-content:center;min-height:36px;padding:8px 12px;border:1px solid #174b3c;background:#174b3c;color:#fff;font-size:10px;font-weight:800}
+.mathura-detail-actions a:nth-child(n+2){background:transparent;color:#174b3c}
+.mathura-detail-actions a:hover,.mathura-detail-actions button:hover{background:#d8f178;color:#183829}
+.mathura-detail-layout{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(210px,.75fr);gap:17px}
+.mathura-detail-panel{padding:16px;border:1px solid #d9dfd6;background:#fffdf8}
+.mathura-detail-panel h3{margin:0 0 9px;color:#244d3c;font-size:15px}
+.mathura-detail-panel>p{margin:0 0 10px;color:#67776d;font-size:10px;line-height:1.55}
+.mathura-detail-course{padding:10px 0;border-top:1px solid #edf0e8}
+.mathura-detail-course b{display:block;color:#193f32;font-size:10px;line-height:1.45}
+.mathura-detail-course span{display:block;margin-top:3px;color:#738078;font-size:8px}
+.mathura-faculty-list{display:grid;gap:8px}
+.mathura-faculty-person{padding:9px;border-left:2px solid #c86d47;background:#f5f4ec}
+.mathura-faculty-person b,.mathura-faculty-person span,.mathura-faculty-person small{display:block}
+.mathura-faculty-person b{color:#244d3c;font-size:9px}
+.mathura-faculty-person span{margin-top:2px;color:#607268;font-size:8px}
+.mathura-faculty-person small{margin-top:3px;color:#859087;font-size:7px}
+.mathura-detail-source{margin:13px 0 0;padding:10px 12px;border-left:2px solid #d8f178;background:#eff3e5;color:#596c5f;font-size:8px;line-height:1.55}
+@media(max-width:900px){.mathura-explorer{margin-left:22px;margin-right:22px;padding:39px 29px}.mathura-college-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.mathura-explorer-tools{grid-template-columns:1fr 1fr}.mathura-explorer-tools .button{grid-column:1/-1}.mathura-map-strip{grid-template-columns:minmax(170px,.7fr) minmax(0,1.3fr)}}
+@media(max-width:620px){.mathura-explorer{margin:34px 12px 56px;padding:29px 16px}.mathura-explorer-heading{align-items:flex-start;gap:12px}.mathura-explorer-heading h2{font-size:35px;letter-spacing:-1.8px}.mathura-explorer-heading>div:first-child>p:last-child{font-size:11px}.mathura-count-orbit{min-width:92px;gap:7px;padding:11px 9px}.mathura-count-orbit>b{font-size:27px}.mathura-count-orbit>span{font-size:7px}.mathura-count-orbit>i{right:6px;top:3px}.mathura-stats{grid-template-columns:1fr 1fr}.mathura-stats>div{min-height:87px;padding:11px}.mathura-stats>div:last-child{grid-column:1/-1}.mathura-stats b{font-size:15px}.mathura-explorer-tools{grid-template-columns:1fr;padding:12px}.mathura-explorer-tools .button{grid-column:auto;width:100%}.mathura-college-grid{grid-template-columns:1fr}.mathura-college-card{min-height:220px}.mathura-card-actions button,.mathura-card-actions a{font-size:8px;padding:8px}.mathura-map-strip{grid-template-columns:1fr;gap:5px}.mathura-map-strip>div{padding:8px}.mathura-map-strip iframe{height:220px}.mathura-map-note{align-items:flex-start;flex-wrap:wrap}.mathura-map-note p{flex-basis:calc(100% - 40px)}.mathura-map-note a{margin-left:34px}.mathura-detail-modal{padding:26px 17px}.mathura-detail-modal .modal-close{margin:-12px -6px 0 0}.mathura-detail-head h2{font-size:24px}.mathura-detail-layout{grid-template-columns:1fr}.mathura-detail-actions a,.mathura-detail-actions button{flex:1}}

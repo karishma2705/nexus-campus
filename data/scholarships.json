@@ -1,0 +1,73 @@
+{
+  "checkedOn": "2026-10-11",
+  "session": "2026-27",
+  "sources": {
+    "hindustan": "https://hcst.edu.in/admission-process/scholarships/",
+    "hindustanTable": "https://www.sgei.org/scholarships/",
+    "gla": "https://www.gla.ac.in/admissions/scholorship",
+    "eshan": "https://www.eshancollege.com/fee_structure",
+    "eshanCourse": "https://www.eshancollege.com/course/B-TECH/computer-science",
+    "sanskriti": "https://admission.sanskriti.edu.in/engineering/",
+    "sanskritiPolicy": "https://www.sanskriti.edu.in/pdf/University-Regulations-for-Scholarships.pdf",
+    "bsaEngineering": "https://bsacet.org/admission-eligibility/",
+    "upScholarship": "https://scholarship.up.gov.in/"
+  },
+  "hindustan": {
+    "name": "Hindustan College of Science & Technology",
+    "session": "2026-27",
+    "pcmThresholds": {
+      "cbseIsc": [95, 90, 85, 80],
+      "stateBoard": [90, 85, 80, 75]
+    },
+    "bands": ["A+", "A", "B", "C"],
+    "courses": {
+      "cse": { "label": "CSE / CSE Data Science / CSE AI & ML", "amounts": [86800, 50000, 30000, 20000] },
+      "other": { "label": "IT / ECE / EEE / Mechanical / Biotechnology", "amounts": [86800, 30000, 20000, 10000] }
+    },
+    "notes": [
+      "Amounts are tuition-fee scholarships, not cash awards. Only one eligible scholarship is applied, subject to approval and available seats.",
+      "The official policy also considers JEE rank and CUET scores. This calculator estimates the PCM route only; the college may use another qualifying route.",
+      "Continuation has academic and attendance conditions. Confirm your board, course, amount and current schedule with admissions before paying fees."
+    ]
+  },
+  "gla": {
+    "name": "GLA University",
+    "session": "As listed on the official scholarship page",
+    "pcmBands": [
+      { "min": 95, "max": 100, "amount": 75000 },
+      { "min": 90, "max": 94.99, "amount": 50000 },
+      { "min": 80, "max": 89.99, "amount": 25000 }
+    ],
+    "unit": "per year",
+    "notes": ["For B.Tech, based on Class 12 PCM percentage.", "Continuation in later years requires a minimum CPI of 8.00, per the official page."]
+  },
+  "sanskriti": {
+    "name": "Sanskriti University",
+    "session": "2026 admission page",
+    "pcmBands": [
+      { "min": 90, "max": 100, "percent": 90 },
+      { "min": 85, "max": 89.99, "percent": 75 },
+      { "min": 80, "max": 84.99, "percent": 50 },
+      { "min": 75, "max": 79.99, "percent": 35 },
+      { "min": 70, "max": 74.99, "percent": 25 }
+    ],
+    "notes": ["Percentage of first-year tuition fee, as listed on the current 2026 B.Tech admission page.", "A separate official scholarship regulation PDF lists a different 70% award for the 85–89.99% PCM band. Confirm the current sanctioned amount with admissions."]
+  },
+  "eshan": {
+    "name": "Eshan College of Engineering & Management",
+    "session": "2026-27",
+    "notes": [
+      "Its current general fee page lists a first-year B.Tech CS merit scholarship of ₹25,000 for 60–80% in Intermediate and ₹5,000 above 80%.",
+      "The college's B.Tech CS course page lists ₹2,500 (not ₹25,000) for 60–80%, with ₹5,000 above 80%. The official pages conflict; confirm the amount directly before relying on it.",
+      "For B.Tech CE/EE/ME, the fee page lists ₹15,000 for 60%–80% or JEE-qualified candidates. Eligibility and amounts vary by course."
+    ]
+  },
+  "bsa": {
+    "name": "B.S.A. College of Engineering & Technology",
+    "notes": ["The college admission page asks scholarship applicants for supporting documents, but we could not verify a fixed institutional PCM-based amount on its current official pages.", "Eligible students can check the Uttar Pradesh post-matric scholarship / fee-reimbursement schemes. The award depends on the live government rules, course, category and family-income criteria; this site does not estimate an amount."]
+  },
+  "government": {
+    "name": "Uttar Pradesh Scholarship & Fee Reimbursement",
+    "notes": ["The District Mathura administration lists scholarship, book-bank and fee-reimbursement schemes and points students to the official UP Scholarship portal.", "Government awards are eligibility- and scheme-based, not a guaranteed college discount. Check the active 2026–27 notice, dates and eligibility directly on the portal."]
+  }
+}
